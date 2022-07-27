@@ -16,8 +16,3 @@ repository               : "BrianChang123/brianchang.github.io"# GitHub username
 gh_edit_repository: "https://github.com/BrianChang123/brianchang.github.io/" # the github URL for your repo
 
 
-
-# Aux links for the upper right navigation
-#aux_links:
-#  "Jason on GitHub":
-#    - "//github.com/jason-lee-91/introduce"
