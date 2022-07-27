@@ -2,17 +2,15 @@ remote_theme: just-the-docs/just-the-docs
 theme: "just-the-docs"
 
 
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"               ## 사이트 스킨
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"               ## 사이트 스킨
 #logo: "/assets/images/just-the-docs.png"                                                                                      ## 사이트 로고
-locale                   : "ko-KR"
-title                    : "Brian`s Blog"
-title_separator          : "-"
-subtitle                 : "Blog"# site tagline that appears below site title in masthead
-name                     : "Brian"
-description              : "Blog"
-url                      : ""# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : ""# the subpath of your site, e.g. "/blog"
-repository               : "BrianChang123/brianchang.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+locale: "ko-KR"
+title: "Brian`s Blog"
+title_separator: "-"
+subtitle: "Blog"# site tagline that appears below site title in masthead
+name: "Brian"
+description: "Blog"
+url: ""# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: ""# the subpath of your site, e.g. "/blog"
+repository: "BrianChang123/brianchang.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 gh_edit_repository: "https://github.com/BrianChang123/brianchang.github.io/" # the github URL for your repo
-
-
