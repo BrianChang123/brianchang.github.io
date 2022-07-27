@@ -2,8 +2,8 @@ remote_theme: just-the-docs/just-the-docs
 #theme: "just-the-docs"  # 로컬 사용 시 주석 해제
 
 
-minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"               ## 사이트 스킨
-#logo: "/assets/images/just-the-docs.png"                                                                                      ## 사이트 로고
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"     ## 사이트 스킨
+#logo: "/assets/images/just-the-docs.png"     ## 사이트 로고
 locale: "ko-KR"
 title: "Brian`s Blog"
 title_separator: "-"
