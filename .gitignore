@@ -1,3 +1,7 @@
+*.gem
+.bundle
+.sass-cache
+_site
+Gemfile.lock
 .idea
 .jekyll-cache
-_site
