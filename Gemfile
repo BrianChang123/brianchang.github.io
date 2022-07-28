@@ -1,4 +1,5 @@
+# frozen_string_literal: true
 
-gem "just-the-docs", "~> 0.3.3"
+source "https://rubygems.org"
+gemspec
 
-gem "webrick", "~> 1.7"
