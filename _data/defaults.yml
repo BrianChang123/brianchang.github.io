@@ -1,4 +1,5 @@
 home:
-  heading: "Your awesome heading"
+  heading: "Change Heading"
   subheading: "Your awesome subheading"
-  banner: "Your image url"
+  banner:
+    image: "https://kukka.kr/static/kukkart_new/img/contents/subscribe_intro/subscription_main_web.png"
