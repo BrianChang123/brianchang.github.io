@@ -2,7 +2,6 @@
 layout: post
 title: Plantuml example
 categories: test
-tags: [plantuml]
 ---
 
 ## My First PlantUML
